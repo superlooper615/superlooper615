@@ -1,24 +1,24 @@
----
-layout: default
-title: Your Name - Portfolio
-css: style.css
----
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #282c34; 
+}
+</style>
+</head>
+<body>
 
+<p style="font-family: 'JetBrains Mono', monospace; color: #c0caf5;">
 
-# Hi there 👋 I'm [Tan Vo]
-[Optional: Add a short description of yourself here. 
-For example: I'm a passionate software engineer with a love for building innovative and user-friendly applications.]
+# <font color="#ff9e64">Hi there 👋 I'm [Your Name]</font> 
 
-![[your-profile-image.jpg|200]]
-
-
-
-[Optional: Add a short description of yourself here. 
-For example: I'm a passionate software engineer with a love for building innovative and user-friendly applications.]
+[Optional: Add a short description of yourself here.
+For example: <font color="#c0caf5">I'm a passionate software engineer with a love for building innovative and user-friendly applications.</font>]
 
 [Optional: Add a profile picture or GIF here]
 
-## About Me
+## <font color="#c678dd">About Me</font> 
 
 * 🔭 I’m currently working on [current project or learning goal]
 * 🌱 I’m currently learning [technologies or skills you're learning]
@@ -29,10 +29,11 @@ For example: I'm a passionate software engineer with a love for building innovat
 * 😄 Pronouns: [your pronouns]
 * ⚡ Fun fact: [a fun fact about yourself]
 
-## My Skills
+
+## <font color="#c678dd">My Skills</font>
 
 <details>
-  <summary><b>Programming Languages</b></summary>
+  <summary><b><font color="#9ece6a">Programming Languages</font></b></summary>
   <ul>
     <li>Python</li>
     <li>JavaScript</li>
@@ -44,7 +45,7 @@ For example: I'm a passionate software engineer with a love for building innovat
 </details>
 
 <details>
-  <summary><b>Frameworks & Libraries</b></summary>
+  <summary><b><font color="#9ece6a">Frameworks & Libraries</font></b></summary>
   <ul>
     <li>React</li>
     <li>Node.js</li>
@@ -55,7 +56,7 @@ For example: I'm a passionate software engineer with a love for building innovat
 </details>
 
 <details>
-  <summary><b>Databases</b></summary>
+  <summary><b><font color="#9ece6a">Databases</font></b></summary>
   <ul>
     <li>MySQL</li>
     <li>PostgreSQL</li>
@@ -64,7 +65,7 @@ For example: I'm a passionate software engineer with a love for building innovat
 </details>
 
 <details>
-  <summary><b>Tools</b></summary>
+  <summary><b><font color="#9ece6a">Tools</font></b></summary>
   <ul>
     <li>Git</li>
     <li>Docker</li>
@@ -75,23 +76,27 @@ For example: I'm a passionate software engineer with a love for building innovat
 </details>
 
 
-## My Projects
+## <font color="#c678dd">My Projects</font>
 
 * **[Project Name]:** [Short description of the project] ([Link to project])
 * **[Project Name]:** [Short description of the project] ([Link to project])
 * **[Project Name]:** [Short description of the project] ([Link to project])
 
-## My Stats
+## <font color="#c678dd">My Stats</font>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[your username]&show_icons=true&theme=tokyonight" alt="[Your Name]" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your username]&layout=compact&theme=tokyonight" /> </p>
 
 
-## Connect with Me
+## <font color="#c678dd">Connect with Me</font>
 
 * 📧 Email: [your email address]
 * 💼 LinkedIn: [your LinkedIn profile URL]
 * 🐦 Twitter: [your Twitter profile URL]
 
 [Optional: Add a visitor counter here.]
+
+</p> 
+</body>
+</html>
